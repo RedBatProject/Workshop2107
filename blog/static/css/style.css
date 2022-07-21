@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(149, 223, 159) !important; 
+
+    /* margin: 1ch; */
+    font-size: large;
+}
+
+#content {
+    padding: 1em;
+}
